@@ -13,7 +13,7 @@ SpringMVC mybatis 框架代码自动生成器。
 
 /nbs-ssm-code-generate/src/util/CodeUtil.java
 
-String tableName = "tb_user";
+String tableName = "tb_user"; 
 String codeName = "User";
 
 3，运行主程序入口
